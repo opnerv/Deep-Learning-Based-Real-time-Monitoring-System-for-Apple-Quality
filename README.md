@@ -1,6 +1,2 @@
-딥러닝 기반의 사과 품질 실시간 모니터링 시스템
-Deep Learning-Based Real-time Monitoring System for Apple Quality
+<img src="https://capsule-render.vercel.app/api?type=wave&color=black&height=10&section=header&text=딥러닝 기반의 사과 품질 실시간 모니터링 시스템&fontSize=20" />
 
-references : 1) https://docs.ultralytics.com/modes/track/#available-trackers
-             2) https://docs.opencv.org/4.x/
-             3) https://github.com/aguegu/ardulibs/tree/master/hx711

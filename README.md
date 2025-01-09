@@ -7,13 +7,16 @@
 ### 2. 개발 배경 및 필요성
 현대 사회는 업무의 자동화가 이루어지고 있는 자동화 시대이고, 갈수록 물가가 높아지고 그에 따라 인건비가 높아지는 추세입니다. 농수산물을 재배하는 사람들은 인건비가 부담이 생길 수밖에 없는 상황입니다. 외국인 근로자를 고용하는 곳도 많지만 결국은 인건비가 투입된다는 것은 변하지 않는 사실이기에, 이러한 문제를 해결하기 위해서 위 시스템을 개발하게 된 것입니다.
 ### 3. 작품 구성도
+![image01](https://github.com/user-attachments/assets/78bbb12d-9b68-4303-9983-69bc4bd661a2)
+
 ### 4. 작품의 특징 및 장점
 
 # 프로젝트 수행결과
 
 ### 1. 주요기능
 ### 2. 프로젝트 개발환경
-
+* ﻿S/W 개발 환경 : Jupyter Notebook, C++, Python, VScode, Arduino IDE
+* H/W 개발 환경 : Arduino Uno, Arduino 로드셀 무게 센서, 카메라 센서, HP 오멘 14 노트북
 # 결과물 상세 이미지
 
 ![1](https://github.com/user-attachments/assets/f846595a-461a-4aa4-be3d-36aeb7eaa9b2)
